@@ -1,7 +1,11 @@
 # webapp_in_flutter
 
 A new Flutter project.
-credit: <https://stackoverflow.com/questions/60731869/load-html-file-and-display-in-flutter-web>
+credits:
+
+- <https://github.com/khaliqdadmohmand/Flutter_IFrame/blob/master/lib/iframescreen.dart>
+
+- <https://github.com/flutter/flutter/issues/133069>
 
 ## Getting Started
 
